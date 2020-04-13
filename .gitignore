@@ -1,5 +1,7 @@
 test.bin
+test.bin.tmp
 test.txt
 test.dbg
 test.tmp
 test.elf
+write2sharedmem
